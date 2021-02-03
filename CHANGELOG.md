@@ -35,6 +35,8 @@ See below for details.
 
 - **BREAKING**: Moved `onMissing` to options in `getMany`.
 
+- `TransactionWriteFunction` no longer expect to return a promise.
+
 ## 7.1.0 - 2020-12-09
 
 - Third argument in `doc` (`meta`) now optional.
