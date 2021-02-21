@@ -1,0 +1,5 @@
+{
+  "browser": "./browser/lazy",
+  "main": "./node",
+  "react-native": "./native"
+}
